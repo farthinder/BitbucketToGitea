@@ -10,6 +10,7 @@ changed in the destination the push should succeed.
 
  * git and git-lfs installed and available with the env PATH variable
  * Groovy
+   * Ideally execute this in en environment that uses the pom.xml file to resolve dependencies, such as Intellij
 
 
 ## Known issues:
